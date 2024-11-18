@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cybersecurity or web development projects**
 
-- 🤝 I’m looking for help with **Expanding the reach and capabilities of NivowWeb, focusing on cybersecurity tools or web security practices**
+- 🤝 I’m looking for help with **Expanding the reach and capabilities of hacking and pentesting, focusing on cybersecurity tools or web security practices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FiliusMahiae](https://github.com/FiliusMahiae)
 
